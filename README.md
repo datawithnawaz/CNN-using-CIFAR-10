@@ -79,7 +79,6 @@ Then just open the notebook and run all cells from top to bottom. It should work
 
 ```
 ├── CNN-nawaz.ipynb   # main notebook with all the code and write-ups
-├── CNN-nawaz.html    # html source for overview
 ├── README.md                      # this file
 ```
 
